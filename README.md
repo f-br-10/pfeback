@@ -37,12 +37,11 @@ Ce projet backend permet la gestion des services cloud avec plusieurs fonctionna
 ### Étapes
 
 1. Clonez le dépôt
-   ```sh
-   git clone https://github.com/f-br-10/pfe_back.git
+  
    
 2. Accédez au répertoire du projet
    
-   cd pfe_back
+   cd pfeback
    
 3. Installez les dépendances
    
